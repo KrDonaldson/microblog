@@ -1,3 +1,4 @@
 __pycache__
 virtenv
-config.py
+.flaskenv
+migrations
